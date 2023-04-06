@@ -1,0 +1,2 @@
+# bingAI
+help from BingAi
